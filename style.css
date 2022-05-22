@@ -46,7 +46,7 @@ button {
   margin: 0 auto;
   background-color: #f7b9cc;
   padding: 4px;
-  border-radius: 30px;
+  border-radius:25px;
   display:inline-block;
 }
 .ac {
